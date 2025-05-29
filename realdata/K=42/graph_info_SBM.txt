@@ -1,0 +1,5 @@
+Number of nodes in filtered subgraph: 986
+Number of departments: 42
+Accuracy (ACC): 0.8000679564666756
+Averaged internal density (True): 0.3364193072719724
+Averaged internal density (Pred): 0.3997866568699853
